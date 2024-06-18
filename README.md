@@ -11,6 +11,8 @@ This Uber Data Analysis project aims to provide insights into ride-sharing usage
 
 ## Interface
 
+https://uber-data-analysis-fji7kn23ouyhchhwji9mmj.streamlit.app/
+
 ![uber 1](https://github.com/Akbar-ds/Uber-Data-Analysis/assets/172882659/7d2770a3-9cdf-48e5-8ed6-66bb995bf51a)
 ![uber 2](https://github.com/Akbar-ds/Uber-Data-Analysis/assets/172882659/9980acf5-a6af-4300-a877-dc88b8430c44)
 ![uber 3](https://github.com/Akbar-ds/Uber-Data-Analysis/assets/172882659/bc0f3b5c-456d-409e-81f6-704b83b52ea5)
