@@ -14,7 +14,9 @@ over time.
 
 
 ## Uber-analysis-app
-click here to open app-> https://uber-data-analysis-fji7kn23ouyhchhwji9mmj.streamlit.app/
+
+* NOTE-Download the uber dataset from the repository as you will need to upload it on the app by clicking on browse files for analysis
+* click here to open app-> https://uber-data-analysis-fji7kn23ouyhchhwji9mmj.streamlit.app/
     
   
 
