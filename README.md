@@ -1,18 +1,24 @@
 # Uber Data Analysis:
-This Uber Data Analysis project aims to provide insights into ride-sharing usage patterns by analyzing trip data. The primary objectives are to distinguish trips based on their purpose (business or personal), examine the geographical patterns of start and stop locations, and conduct a time series analysis to observe trends over time.
+This Uber Data Analysis project aims to provide insights into ride-sharing usage patterns by analyzing trip data. The primary objectives are to distinguish trips based on their purpose (business or personal), examine the geographical patterns of start and stop locations, and conduct a time series analysis to observe trends
+over time.
+
 
 ## Table of Content
+  * [Uber-analysis-app](#interface)
   * [Interface](#interface)
   * [Overview](#overview)
   * [Installation](#installation)
   * [Future scope of project](#future-scope)
+
+
+
+
+## Uber-analysis-app
+click here to open app-> https://uber-data-analysis-fji7kn23ouyhchhwji9mmj.streamlit.app/
+    
   
 
-
 ## Interface
-
-https://uber-data-analysis-fji7kn23ouyhchhwji9mmj.streamlit.app/
-
 ![uber 1](https://github.com/Akbar-ds/Uber-Data-Analysis/assets/172882659/7d2770a3-9cdf-48e5-8ed6-66bb995bf51a)
 ![uber 2](https://github.com/Akbar-ds/Uber-Data-Analysis/assets/172882659/9980acf5-a6af-4300-a877-dc88b8430c44)
 ![uber 3](https://github.com/Akbar-ds/Uber-Data-Analysis/assets/172882659/bc0f3b5c-456d-409e-81f6-704b83b52ea5)
